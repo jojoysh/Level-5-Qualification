@@ -1,2 +1,2 @@
-# Level-5-Qualification
+# Qualification
 BTS SNIR
